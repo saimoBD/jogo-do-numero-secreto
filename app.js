@@ -1,4 +1,4 @@
-let numeroLimite = 100;
+let numeroLimite = 40;
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 console.log('Número secreto: ' + numeroSecreto);
